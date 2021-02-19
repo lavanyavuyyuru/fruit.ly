@@ -8,4 +8,5 @@ scanf("%d%d",&a,&);
 temp=a;
 a=b;
 b=temp;
+printf("%d%d",a,b);
 }
